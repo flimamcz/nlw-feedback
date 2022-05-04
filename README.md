@@ -1,4 +1,4 @@
-# NLW RETURN - App Feedback
+# NLW RETURN - App FeedGet
 
  - <a href="#sobre">Sobre o projeto</a>
  - <a href="#tecnologias">Tecnologias Usadas</a> 
